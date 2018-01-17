@@ -1,0 +1,56 @@
+@media all and (max-width: 768px){
+	.header-area{
+		height: 1200px;
+	}
+    .header-area .menu-btn{
+        display: block;
+        float: none;
+    }
+    .menu-area{
+        display: none;
+    }
+	.menu-area ul{
+        display: block;
+    }
+    .header-content{
+        padding: 50px 0;
+    }
+    #name{
+        font-size: 50px;
+        padding-top: 50px;
+        padding-left: 20px;
+    }
+    #work{
+        padding-top: 50px;
+        padding-left: 20px;
+        font-size: 30px;
+    }	    
+    .icon{
+	    padding-left: 60px;
+	    padding-bottom: 20px;
+    }
+    .about-area{
+    	height: 1200px;
+    }
+    .portfolio-area{
+    	height: 2900px;
+    }
+    .portfolio-area-bottom .portfolio-img-area{
+        width: 100%;
+    }
+    .contact-area{
+        height: 800px;
+    }
+    .contact-left{
+        margin-left: 5px;
+    }
+    .contact-left p{
+        font-size: 15px;
+    }
+    .contact-left i{
+        font-size: 20px;
+    }
+    .up-btn i{
+        font-size: 30px;
+    }
+}

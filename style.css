@@ -114,7 +114,7 @@ p{
 	padding: 50px 80px;
 	font-weight: bold;
 	font-family: 'PaprikaRegular';
-	color: #f1c40f;
+	color: #FFC312;
 	text-align: center;
 }
 #name{
@@ -270,10 +270,12 @@ p{
 }
 .overlay .overlay-content{
 	color: #fff;
+	font-size: 15px;
 }
 .overlay .overlay-content i{
     padding-left: 50px;
     padding-bottom: 20px;
+    font-size: 30px;
     color: #f1c40f;
     cursor: pointer;
 }

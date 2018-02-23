@@ -1,6 +1,7 @@
 @media all and (max-width: 768px){
 	.header-area{
 		height: 1200px;
+        background-size: auto;
 	}
     .header-area .menu-btn{
         display: block;
